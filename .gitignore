@@ -1,0 +1,14 @@
+# Swimmov gitignore File
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.xml
+
+# Maven
+target/
+
+* Gradle 
+.gradle
+/build/
