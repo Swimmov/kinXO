@@ -1,6 +1,8 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Random;
 
 public class KinGameXO {
@@ -79,4 +81,15 @@ public class KinGameXO {
 
     }
 
+    public static String checkWinner() {
+        List topRaw = Arrays.asList(1, 2, 3);
+        List midRaw = Arrays.asList(4, 5, 6);
+        List botRaw = Arrays.asList(7, 8, 9);
+        List leftCol = Arrays.asList(1, 4, 7);
+        List midCol = Arrays.asList(2, 5, 8);
+        List cross1 = Arrays.asList(1, 5, 9);
+        List cross2 = Arrays.asList(3, 5, 7);
+
+        return "";
+    }
 }
