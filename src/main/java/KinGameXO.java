@@ -36,7 +36,8 @@ public class KinGameXO {
                System.out.println(result);
                break;
            }
-           // --------- artificial intelligence ;)------------
+
+     // --------- artificial intelligence ;)---------------
            Random random = new Random();
            cpuPos = random.nextInt(9) + 1;
            while (playersPositions.contains(cpuPos) || cpuPositions.contains(cpuPos)) {
