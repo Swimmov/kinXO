@@ -1,0 +1,2 @@
+to change the last commit:
+git commit --amend -o -m "New message"
