@@ -1,4 +1,4 @@
-![Dog_Algorithm](https://user-images.githubusercontent.com/73262765/98285059-9cf00400-1f67-11eb-80cf-744a7ab1ddfa.jpg)
+![Dog_Algorithm](https://user-images.githubusercontent.com/73262765/98286648-eccfca80-1f69-11eb-8fde-6413125a79a0.jpg)
 ##  Tic-Tac-Toe or 'X'#'O' game.
 
 - This is Java code for simple console game.
