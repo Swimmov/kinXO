@@ -12,3 +12,6 @@ target/
 * Gradle 
 .gradle
 /build/
+
+META-INF/
+../resources/
